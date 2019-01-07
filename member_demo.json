@@ -1,0 +1,112 @@
+[
+	{
+		"userId": "user1",
+		"password": "9881",
+		"parName": "Xantha",
+		"parBirth": "99/01/29",
+		"babyName": "Leroy",
+		"babyBirth": "18/04/13",
+		"email": "Integer.in.magna@afelis.org",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user2",
+		"password": "3651",
+		"parName": "Samson",
+		"parBirth": "98/05/02",
+		"babyName": "Simon",
+		"babyBirth": "17/01/24",
+		"email": "molestie@etmagnis.edu",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user3",
+		"password": "1937",
+		"parName": "Jin",
+		"parBirth": "81/08/02",
+		"babyName": "Autumn",
+		"babyBirth": "18/01/20",
+		"email": "sed@magnamalesuada.ca",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user4",
+		"password": "9126",
+		"parName": "Lisandra",
+		"parBirth": "95/04/07",
+		"babyName": "Adria",
+		"babyBirth": "17/07/28",
+		"email": "laoreet.posuere.enim@ipsumportaelit.edu",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user5",
+		"password": "4590",
+		"parName": "Maggie",
+		"parBirth": "90/03/16",
+		"babyName": "Zelda",
+		"babyBirth": "18/10/07",
+		"email": "ligula@ligulaAeneangravida.ca",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user6",
+		"password": "7133",
+		"parName": "Noah",
+		"parBirth": "92/04/07",
+		"babyName": "Elvis",
+		"babyBirth": "18/07/08",
+		"email": "Nulla.eu.neque@amet.net",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user7",
+		"password": "2629",
+		"parName": "Maisie",
+		"parBirth": "99/06/29",
+		"babyName": "Orson",
+		"babyBirth": "18/05/21",
+		"email": "bibendum.ullamcorper.Duis@diamatpretium.org",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user8",
+		"password": "8385",
+		"parName": "Isaiah",
+		"parBirth": "92/12/23",
+		"babyName": "Omar",
+		"babyBirth": "18/06/26",
+		"email": "Integer.aliquam@acmattissemper.com",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user9",
+		"password": "5295",
+		"parName": "Gay",
+		"parBirth": "93/01/30",
+		"babyName": "Fritz",
+		"babyBirth": "18/10/05",
+		"email": "aliquet.lobortis.nisi@iaculisaliquetdiam.co.uk",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	},
+	{
+		"userId": "user10",
+		"password": "5989",
+		"parName": "Caldwell",
+		"parBirth": "90/03/05",
+		"babyName": "Amanda",
+		"babyBirth": "18/07/15",
+		"email": "libero.Integer@velitPellentesque.ca",
+		"regDate": "19/01/01",
+		"updateDate": "19/01/07"
+	}
+]
