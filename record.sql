@@ -6,7 +6,8 @@ create table record(
     sleep_time      timestamp(0)                    not null,
     wakeup_time     timestamp(0)                    not null,
     total_time      interval day(3) to second(4),
-    day_night       varchar2(30)                    not null,
+    day_night       varchar2(30)                    not null
+            check (day_night in ('DAY', 'NIGHT')),
     memo            clob,
     update_date     date                            default(sysdate)
 );
